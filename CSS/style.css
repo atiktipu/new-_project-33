@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+
+.container{
+    width: 1770px;
+    margin: 0 auto;
+}
+
+.screenOne{
+    padding: 20px;
+    background: #ddd;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+    height: 250px;
+}
+
+.playerOneNameInput{
+    margin-top: 20px;
+    width: 500px;
+    border-radius: 50px;
+    background: #fff;
+    border: 1px solid teal;
+    padding: 15px 20px;
+}
+
+.playerOneNameInput::placeholder{
+    color: tomato;
+    font-size: 16px;
+}
+.startGameBtn{
+   padding: 15px 25px;
+   background: #7041D3; 
+   color: #ddd;
+   border: none;
+   margin-top: 20px;
+   border-radius: 50px;
+}
+.screenOneError{
+   width: 300px;
+   padding: 10px;
+   background: red; 
+   color: #ddd;
+   margin: 0 auto;
+   margin-top: 30px;
+  
+}
+
+
+.screenTwo{
+    padding: 20px;
+    background: #ddd;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+    height: 250px;
+}
+
+.playerOneNameInput2{
+    margin-top: 20px;
+    width: 500px;
+    border-radius: 50px;
+    background: #fff;
+    border: 1px solid teal;
+    padding: 15px 20px;
+}
+
+.playerOneNameInput2::placeholder{
+    color: tomato;
+    font-size: 16px;
+}
+.startGameBtn2{
+   padding: 15px 25px;
+   background: #7041D3; 
+   color: #ddd;
+   border: none;
+   margin-top: 20px;
+   border-radius: 50px;
+}
+.screenOneError2{
+   width: 300px;
+   padding: 10px;
+   background: red; 
+   color: #ddd;
+   margin: 0 auto;
+   margin-top: 30px;
+   
+}
+
+.screenThree{
+    padding: 20px;
+    background: #ddd;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+    height: 250px;
+}
+
+.playerOneNameInput3{
+    margin-top: 20px;
+    width: 500px;
+    border-radius: 50px;
+    background: #fff;
+    border: 1px solid teal;
+    padding: 15px 20px;
+}
+
+.playerOneNameInput3::placeholder{
+    color: tomato;
+    font-size: 16px;
+}
+.startGameBtn3{
+   padding: 15px 25px;
+   background: #7041D3; 
+   color: #ddd;
+   border: none;
+   margin-top: 20px;
+   border-radius: 50px;
+}
+.screenOneError3{
+   width: 300px;
+   padding: 10px;
+   background: red; 
+   color: #ddd;
+   margin: 0 auto;
+   margin-top: 30px;
+   
+}
+
+.screenFour{
+    padding: 20px;
+    background: #ddd;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+    height: 250px;
+}
+
+.playerOneNameInput4{
+    margin-top: 20px;
+    width: 500px;
+    border-radius: 50px;
+    background: #fff;
+    border: 1px solid teal;
+    padding: 15px 20px;
+}
+
+.playerOneNameInput4::placeholder{
+    color: tomato;
+    font-size: 16px;
+}
+.startGameBtn4{
+   padding: 15px 25px;
+   background: #7041D3; 
+   color: #ddd;
+   border: none;
+   margin-top: 20px;
+   border-radius: 50px;
+}
+.screenOneError4{
+   width: 300px;
+   padding: 10px;
+   background: red; 
+   color: #ddd;
+   margin: 0 auto;
+   margin-top: 30px;
+   
+}
+
